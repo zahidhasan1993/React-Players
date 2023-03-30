@@ -1,0 +1,120 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ea",
+        "category": "BatsMan",
+        "name": "Virat Kohli",
+        "country": "India",
+        "price": 290000,
+        "ratings": 5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244980/virat-kohli.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eb",
+        "category": "BatsMan",
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "price": 100000,
+        "ratings": 3.5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ec",
+        "category": "BatsMan",
+        "name": "Babar Azam",
+        "country": "Pakisthan",
+        "price": 150000,
+        "ratings": 4.5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244936/babar-azam.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ed",
+        "category": "BatsMan",
+        "name": "Liton Das",
+        "country": "Bangladesh",
+        "price": 90000,
+        "ratings": 3.0,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244922/litton-das.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ee",
+        "category": "BatsMan-Keeper",
+        "name": "Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "price": 80000,
+        "ratings": 2.5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ef",
+        "category": "BatsMan-Keeper",
+        "name": "Mohammad Rizwan",
+        "country": "Pakisthan",
+        "price": 110000,
+        "ratings": 3.5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244955/mohammad-rizwan.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6egg",
+        "category": "BatsMan-Keeper",
+        "name": "KL Rahul",
+        "country": "India",
+        "price": 100000,
+        "ratings": 3.5,
+        "img": "https://c.ndtvimg.com/2023-03/egsl9jtg_kl-rahul_625x300_17_March_23.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eg",
+        "category": "Pace-Bowler",
+        "name": "Taskin Ahmed",
+        "country": "Bangladesh",
+        "price": 70000,
+        "ratings": 2.5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244932/taskin-ahmed.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eh",
+        "category": "Pace-Bowler",
+        "name": "Sahin Afridi",
+        "country": "Pakisthan",
+        "price": 120000,
+        "ratings": 4.5,
+        "img": "https://images.mid-day.com/images/images/2022/oct/shahid-afridi-game-a_d.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6es",
+        "category": "Pace-Bowler",
+        "name": "Trent Boult",
+        "country": "Newzeland",
+        "price": 130000,
+        "ratings": 5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244829/trent-boult.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6er",
+        "category": "Pace-Bowler",
+        "name": "Mohammed Siraj",
+        "country": "India",
+        "price": 80000,
+        "ratings": 3.5,
+        "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171039/mohammed-siraj.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eq",
+        "category": "All-Rounder",
+        "name": "Shakib al-hasan",
+        "country": "Bangladesh",
+        "price": 180000,
+        "ratings": 5,
+        "img": "https://resources.pulse.icc-cricket.com/photo-resources/2022/10/27/98e735f8-f791-4a08-87ac-84d56e0624f1/GettyImages-1434948788.jpg?width=985&height=580"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ez",
+        "category": "All-Rounder",
+        "name": "Rashid Khan",
+        "country": "Afgansthan",
+        "price": 150000,
+        "ratings": 4.5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEiIFojTqCBK8ljOnPp7_m-xhGBHzfkv_WcA&usqp=CAU"
+    }
+    
+]
